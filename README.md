@@ -2,4 +2,4 @@
 
 ### AINDA NÃO FUNCIONAL!
 
-### Futuramente irei estár adequando o projeto para todos!!
+### Futuramente irei estar adequando o projeto para todos!!
