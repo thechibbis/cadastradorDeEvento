@@ -3,5 +3,3 @@
 
 # Infelizmente ainda não adequei o projeto para todos usarem!! Futuramente estará liberado para uso 100%
 
-##
-
