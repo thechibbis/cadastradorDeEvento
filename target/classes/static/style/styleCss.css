@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'PT Mono', monospace;
+    color: #283231;
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(75.97deg, #50555C -32.38%, #777C85 25.59%, #ACB3BF 67.83%);
+}
+
+.body-form {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #C4C4C4;
+    
+}
+
+.form-nome {
+
+    background-color: #C4C4C4;
+    
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 9px;
+    border-bottom: #283231 1px solid;
+}
+
+.img-header {
+    width: 50px;
+    height: 50px;
+}
+
+.menu {
+    display: flex;
+    gap: 30px;
+}
+
+.corpo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+
+
+}
+
+
+.img-mid {
+    margin-top: 25px;
+    width: 300px;
+    height: 283px;
+    
+}
+
+.text-mid {
+    border-top:#283231 1px solid;
+    border-bottom: #283231 1px solid;
+    font-size: 26px;
+    margin-top: 10px;
+}
+
+.footer-img {
+    margin-bottom: 24px;
+    margin-top: 15px;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-top: #283231 1px solid;
+    margin-top: 361px;
+ 
+}
